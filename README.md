@@ -1,4 +1,4 @@
-# python-fundamentals-bme
+# Python-Fundamentals-BME
 This repository documents my foundational Python learning journey through small biomedical-oriented computational tasks and mini simulations.
 
 The primary goal of this repository is to strengthen:
